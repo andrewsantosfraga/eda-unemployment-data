@@ -116,15 +116,18 @@ Este projeto demonstra competências fundamentais para **Ciência de Dados**, in
    git clone https://github.com/andrewsantosfraga/eda-unemployment-data.git
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
+
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 venv\\Scripts\\activate   # Windows
 
 3. Instale as dependências:
+
 pip install -r requirements.txt
 
 4. Execute o notebook:
-jupyter notebook
+
+eda_labor_market_pnad_continua_ibge.ipynb
 ---
 
 📬 **Feedbacks, sugestões e conexões profissionais são bem-vindos.**
