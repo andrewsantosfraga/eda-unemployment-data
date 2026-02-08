@@ -1,6 +1,6 @@
 # 📊 Análise Exploratória de Dados Socioeconômicos — PNAD Contínua (IBGE)
 
-🔗 **Notebook principal:** [Acessar notebook](./notebook_principal.ipynb)
+🔗 **Notebook principal:** [EDA PNAD Contínua — Desemprego](./notebooks/eda_pnad_continua_desemprego_ibge.ipynb)
 
 ---
 
@@ -10,24 +10,29 @@ O projeto aplica práticas sólidas de **engenharia de dados leve, estatística 
 
 ---
 
-## 🎯 Objetivos Analíticos
+## 🎯 Objetivos do Projeto (EDA)
 
-- Analisar a **evolução temporal** da taxa de desocupação no Brasil
-- Identificar **tendências estruturais** e **ciclos econômicos**
-- Avaliar **padrões sazonais trimestrais**
-- Explorar relações estatísticas entre indicadores derivados
+Este projeto tem como objetivo realizar uma **Análise Exploratória de Dados (EDA)** aplicada ao mercado de trabalho brasileiro, buscando:
+
+- Compreender a **estrutura, granularidade e limitações** dos dados da PNAD Contínua
+- Avaliar a **qualidade e consistência** das séries temporais
+- Identificar **tendências de longo prazo**, ciclos econômicos e **pontos de inflexão**
+- Investigar **padrões sazonais trimestrais** na taxa de desocupação
+- Detectar **outliers e períodos atípicos**, associados a choques econômicos
+- Explorar **relações estatísticas** entre indicadores derivados da taxa de desocupação
 - Aplicar técnicas de **suavização temporal** para redução de ruído
+- Gerar **insights e hipóteses analíticas** que possam subsidiar análises preditivas ou inferenciais futuras
 
 ---
 
 ## 🗂️ Estrutura do Projeto
-
+```
 📁 projeto/
 │
 ├── 📓 notebook_principal.ipynb # Pipeline completo de EDA
 ├── 📊 dados/ # Dados extraídos via API SIDRA
 └── 📄 README.md # Documentação técnica do projeto
-
+```
 
 ---
 
@@ -108,7 +113,7 @@ Este projeto demonstra competências fundamentais para **Ciência de Dados**, in
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/andrewsantosfraga/eda-unemployment-data.git
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
 python -m venv venv
