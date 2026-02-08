@@ -100,15 +100,6 @@ Este projeto tem como objetivo realizar uma **Análise Exploratória de Dados (E
 
 ---
 
-## 📎 Contexto Profissional
-
-Este projeto demonstra competências fundamentais para **Ciência de Dados**, incluindo:
-
-- Manipulação e estruturação de dados reais
-- Análise estatística aplicada
-- Pensamento analítico orientado a dados socioeconômicos
-- Comunicação visual clara e interpretável para tomada de decisão
-
 ## ▶️ Como Executar o Projeto
 
 1. Clone o repositório:
