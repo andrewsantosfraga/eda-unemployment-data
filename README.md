@@ -119,11 +119,7 @@ Este projeto demonstra competências fundamentais para **Ciência de Dados**, in
 
     ```bash
 python -m venv venv
-
-    ```bash
 source venv/bin/activate  # Linux/Mac
-
-    ```bash
 venv\\Scripts\\activate   # Windows
 
 3. Instale as dependências:
