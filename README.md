@@ -124,11 +124,13 @@ Este projeto demonstra competências fundamentais para **Ciência de Dados**, in
 
 3. Instale as dependências:
 
-pip install -r requirements.txt
+    ```bash
+    pip install -r requirements.txt
 
 4. Execute o notebook:
 
-eda_labor_market_pnad_continua_ibge.ipynb
+    ```bash
+    eda_labor_market_pnad_continua_ibge.ipynb
 ---
 
 📬 **Feedbacks, sugestões e conexões profissionais são bem-vindos.**
