@@ -1,6 +1,6 @@
 # 📊 Análise Exploratória de Dados Socioeconômicos — PNAD Contínua (IBGE)
 
-🔗 **Notebook principal:** [EDA PNAD Contínua — Desemprego](./notebooks/eda_pnad_continua_desemprego_ibge.ipynb)
+🔗 **Notebook principal:** [EDA PNAD Contínua — Desemprego](./notebooks/eda_labor_market_pnad_continua_ibge.ipynb)
 
 ---
 
@@ -117,8 +117,13 @@ Este projeto demonstra competências fundamentais para **Ciência de Dados**, in
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
 
+    ```bash
 python -m venv venv
+
+    ```bash
 source venv/bin/activate  # Linux/Mac
+
+    ```bash
 venv\\Scripts\\activate   # Windows
 
 3. Instale as dependências:
